@@ -1,6 +1,6 @@
 #  Customer & Market Sales Performance Analysis - Excel Report
 
-This project is part of the **Excel for Data Analytics** course by [Codebasics](https://www.codebasics.io/) taught by **Dhaval Patel**. The goal was to analyze customer and market-wise sales performance using Excel features like Power Query, PivotTables, and DAX formulas in Power Pivot.
+This project is part of the **Excel for Data Analytics** course by [Codebasics](https://www.codebasics.io/). The goal was to analyze customer and market-wise sales performance using Excel features like Power Query, PivotTables, and DAX formulas in Power Pivot.
 
 ## 🔍 Project Overview
 
