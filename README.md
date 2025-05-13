@@ -2,7 +2,7 @@
 
 This project is part of the **Excel for Data Analytics** course by [Codebasics](https://www.codebasics.io/). The goal was to analyze customer and market-wise sales performance using Excel features like Power Query, PivotTables, and DAX formulas in Power Pivot.
 
-## 🔍 Project Overview
+##  Project Overview
 
 The project includes two reports:
 1. **[Customer Performance Report](https://github.com/sindhujak785/Excel--Sales-Analysis/blob/main/Customer%20performance%20Report.pdf)**
