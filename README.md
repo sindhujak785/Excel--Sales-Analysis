@@ -5,7 +5,7 @@ This project is part of the **Excel for Data Analytics** course by [Codebasics](
 ## 🔍 Project Overview
 
 The project includes two reports:
-1. **[Customer Performance Report]()**
+1. **[Customer Performance Report](https://github.com/sindhujak785/Excel--Sales-Analysis/blob/main/Customer%20performance%20Report.pdf)**
 2. **[Market Performance vs Target Report](https://github.com/sindhujak785/Excel--Sales-Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)**
 
 
