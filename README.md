@@ -51,13 +51,6 @@ As part of this Excel project, I analyzed data to answer several key business qu
 
 These insights simulate real-world business scenarios where a data analyst helps decision-makers understand sales patterns, market expansion, and product performance.
 
-## 📁 Files Included
-
-| File | Description |
-|------|-------------|
-| `customer_performance.png` | Excel dashboard showing customer-wise sales growth (2019–2021) |
-| `market_performance.png`   | Excel dashboard showing actual vs target performance by country |
-| `*.xlsx` (not uploaded)    | Excel files used for building the dashboards (not included for privacy) |
 
 ---
 
